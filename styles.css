@@ -1,0 +1,19 @@
+main{
+    background: #ececf0;
+    margin: 25px 3px;
+}
+#title{
+    display: block;
+    text-align: center;
+}
+#img-div{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+#image{
+    max-width: 100%;
+    height: auto;
+
+}
